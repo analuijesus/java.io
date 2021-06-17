@@ -1,0 +1,6 @@
+Como gravar dados comuns em vários arquivos usando apenas um único fluxo?
+Como podemos acessar vários arquivos por um único fluxo?
+Como podemos melhorar o desempenho da operação de entrada e saída?
+De quantas maneiras podemos ler dados do teclado?
+O que faz a classe de console?
+Como comprimir e descomprimir os dados de um arquivo?
